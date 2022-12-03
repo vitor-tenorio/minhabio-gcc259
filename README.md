@@ -2,6 +2,8 @@
 
 # Olá, sou o Vitor! 👋
 
+Imagem pedida na atividade: <img src="https://sistemasdeinfoige.files.wordpress.com/2014/10/softwarelivre.jpg" />
+
 - 🎓 Estudante de Ciência da Computação na Universidade Federal de Lavras
 - 💻 Desenvolvedor e Tech-lead Back-End na Comp Júnior
 - 💻 Desenvolvedor Full-Stack na az.leads
